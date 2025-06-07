@@ -6,3 +6,4 @@ The website is divided into different sections such as Home, About, Education, P
 The design uses a soft and modern style with a slightly transparent effect and subtle shadows, which gives the site a calm and polished feel. It also includes a personal image at the top, followed by details that help visitors learn more about you.
 
 This website works well on different screen sizes, including mobile devices, thanks to its responsive layout.
+https://sri971.github.io/Myportfolio/
